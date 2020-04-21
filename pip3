@@ -1,9 +1,0 @@
-pip is a very useful python package and you'll need it many times to perform some tasks !
-
-Steps for installation ! (on linux) (cassez vous le cul les windowsiens)
-
-1- make sure you have the latest version of python 
-2- apt-get install python3-pip (add sudo if ur not in root mode)
-3- pip3 install -r requirements.txt 
-4- verify if it was correctly installed by typing (pip3 -V)
-
