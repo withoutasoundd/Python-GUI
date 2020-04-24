@@ -1,3 +1,4 @@
+#TIC TAC TOE game
 def clear(eve):
 	eve.widget.delete(0,END)
 def sub():
