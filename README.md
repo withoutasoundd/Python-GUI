@@ -1,8 +1,7 @@
-Hey guys ! 
-here are some Graphical user interfaces / games that i personally made 
-to run the programs:
--Register the file 
--Open a commandline and navigate to the directory where u registred the file 
--type in terminal: python3 name_of_program.py
+Some Graphical user interfaces / games that I created using Python ( Calculator + Small game )
+
+To run the programs:
+-Open a shell and navigate to the directory where u registred the file 
+-Run : python3 name_of_program.py
 
 #anisbref
